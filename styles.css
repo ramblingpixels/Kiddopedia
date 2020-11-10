@@ -1,0 +1,288 @@
+/* #body1 .container-fluid{
+  padding: 3% 15% 7%;
+} */
+
+/* Navbar */
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-item{
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  display: inline;
+  font-weight: 400;
+}
+
+.nav-link{
+  color: #9d65c9;
+}
+
+.nav-link:hover{
+  color: #6a197d;
+}
+
+body .navbar-brand{
+  font-size: 3rem;
+  color: ff7e67;
+  margin-left: 30%;;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  /* padding-left: 8%; */
+  color: #9d65c9;
+
+}
+
+.navbar-brand:hover{
+  color: #6a197d;
+  cursor: default;
+}
+
+body h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem;
+  padding-top: 3%;
+}
+
+.title{
+  font-family: 'Poppins', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #40a8c4;
+
+  padding-left: 0;
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 3%;
+}
+
+/* p{
+  font-family: 'Poppins', sans-serif;
+  width: 30%;
+  margin-left: 8%;
+} */
+
+.header{
+  background: #cffffe;
+  background: linear-gradient(0deg, #cffffe 0%, #ffc1f3 100%);
+  /* height: 600px; */
+}
+
+@media (max-width: 1200px){
+  .nav-link{
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 992px){
+  .title{
+    /* text-align: center; */
+    font-size: 2.5rem;
+
+  }
+}
+
+@media (max-width: 1066px){
+  .navbar-brand{
+    font-size: 2.5rem;
+  }
+}
+
+
+@media{
+  .navbar-brand{
+    text-align: center;
+  }
+}
+
+
+.heading-img{
+  display: block;
+  max-width: 30%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#body1  .study{
+  background: #d2f6c5;
+  background: linear-gradient(0deg, #d2f6c5 0%, #fce2ce 100%);
+  height: 600px;
+  text-align: center;
+}
+
+.read{
+    background: #cffffe;
+    background: linear-gradient(0deg, #cffffe 0%, #ffc1f3 100%);
+    height: 600px;
+}
+
+.musics{
+  background: #d2f6c5;
+  background: linear-gradient(0deg, #d2f6c5 0%, #fce2ce 100%);
+  height: 600px;
+  text-align: center;
+}
+
+.game{
+  background: #cffffe;
+  background: linear-gradient(0deg, #cffffe 0%, #ffc1f3 100%);
+  height: 600px;
+}
+
+.ctc{
+  background: #d2f6c5;
+  background: linear-gradient(0deg, #d2f6c5 0%, #fce2ce 100%);
+  height: 500px;
+}
+
+#studies{
+  color: #ff7e67;
+}
+
+#reading{
+  color: #9d65c9;
+}
+
+#music{
+  color: #ff7e67;
+}
+
+#games{
+  color: #9d65c9;
+}
+
+#contact{
+  color: #ff7e67;
+}
+
+#social-icon{
+  color: #81b214;
+  margin-top: 15%;
+  /* align-content: center; */
+  /* margin: 20px 10px;
+  margin-left: 20%; */
+  font-size: 4rem;
+}
+
+#social-icon:hover{
+  color: #799351;
+}
+
+
+
+/* #social-link{
+  text-decoration: none;
+  color: #81b214;
+  font-size: 3rem;
+}
+
+#social-link:hover{
+  text-decoration: none;
+  color: #799351;
+} */
+
+.section{
+  text-align: center;
+}
+
+/* Study section */
+
+
+
+#body1 .nav-link-1{
+  font-size: 2.5rem;
+  color: #ff414d;
+  display: block;
+}
+
+#body1 .nav-link-1:hover{
+  text-decoration: none;
+}
+
+
+
+
+
+/* Music Section */
+.testimonial-image{
+  margin: 20px;
+  border-radius: 100%;
+}
+
+.instru-link{
+  text-decoration: none;
+  color: #ff7e67;
+}
+
+.instru-link:hover{
+  text-decoration: none;
+  color: #ff414d;
+}
+
+.piano{
+  margin-top: 5%;
+}
+
+
+/* Games */
+.game-img{
+  width: 200px;
+  height: 208px;
+  margin-top: 7%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+
+.game-link{
+  text-decoration: none;
+  color: #40a8c4;
+}
+
+.game-link:hover{
+  text-decoration: none;
+}
+
+
+/* Reading */
+.reading-image{
+  margin-top: 3%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.reading-para{
+  margin-top: 8%;
+  font-size: 1.5rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: #40a8c4;
+  margin-bottom: 5%;
+}
+
+.reading-link{
+  text-decoration: none;
+  color: #40a8c4;
+}
+
+.reading-link:hover{
+  text-decoration: none;
+}
+
+
+/* Study */
+
+.study-image{
+  border-radius: 0;
+  box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.4), 0 6px 20px 0 rgba(255, 0, 0, 0.4);
+  margin-top: 5%;
+  width: 30%;
+  height: 30%;
+
+}

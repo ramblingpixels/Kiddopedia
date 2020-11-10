@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+}
+
+.header{
+  background: #f1d4d4;
+  background: linear-gradient(0deg, #f1d4d4 0%, #f6d6ad 100%);
+  text-align: center;
+}
+
+.title{
+  margin-top: 0;
+  color: #ac4b1c;
+  padding-left: 7%;
+}
+
+body h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4rem;
+  padding-top: 3%;
+}
+
+#title-text{
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 5%;
+  padding-left: 7%;
+  padding-right: 7%;
+  color: #ac4b1c;
+  font-family: "Ubuntu";
+}
+
+
+/* First Gradient */
+.main-content{
+  /* height:  */
+  background: #f6d6ad;
+  background: linear-gradient(0deg, #f6d6ad 0%, #f1d4d4 100%);
+}
+
+.act-heading{
+  text-align: center;
+  color: #440047;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5%;
+}
+
+/* Tips for parents */
+
+.main-points{
+  padding-bottom: 5%;
+
+}
+.age-group{
+  margin-top: 0;
+  text-align: center;
+  color: #440047;
+}
+
+.intro-text{
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.2rem;
+  color: #7d0633;
+  font-family: "Ubuntu";
+}
+
+.agewise-img{
+  display: block;
+  max-width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.heading{
+  padding-left: 5%;
+  font-size: 2rem;
+  color: #440047;
+  font-family: "Ubuntu";
+  margin-bottom: 0;
+}
+
+
+.pointer-heading{
+  padding-left: 5%;
+  margin-bottom: 3px;
+  font-size: 1.5rem;
+  color: #440047;
+  font-family: "Ubuntu";
+}
+
+.pointer{
+  padding-left: 5%;
+  width: 80%;
+  margin-top: 2px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1%;
+  color: #7d0633;
+  font-family: "Ubuntu";
+}
+
+.final-point{
+  text-align: center;
+  color: #440047;
+  font-size: 1.5rem;
+  font-family: "Ubuntu";
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.main-content_{
+  background: #f1d4d4;
+  background: linear-gradient(0deg, #f1d4d4 0%, #f6d6ad 100%);
+}
+
+.age-group_{
+  color: #ac4b1c;
+}
+
+.act-heading_{
+  color: #ac4b1c;
+}
+
+.heading_{
+  color: #ac4b1c;
+}
+
+.final-point_{
+  color: #ac4b1c;;
+}
+
+.intro-text_{
+  color: #87431d;
+}
+
+.pointer_{
+  color: #87431d;
+}

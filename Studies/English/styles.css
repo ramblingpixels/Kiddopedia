@@ -1,0 +1,101 @@
+body{
+  margin: 0;
+}
+
+.header{
+  background: #e8ffc1;
+  background: linear-gradient(0deg, #e8ffc1 0%, #a5ecd7 100%);
+  text-align: center;
+}
+
+.heading{
+  margin-top: 0;
+  font-size: 5rem;
+  padding-top: 3%;
+  font-family: "Ubuntu";
+  color: #6a097d;
+}
+
+.intro-text{
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.5rem;
+  padding-bottom: 3%;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 0;
+  color: #790c5a;
+}
+
+.main-content{
+  background: #a5ecd7;
+  background: linear-gradient(0deg, #a5ecd7 0%, #e8ffc1 100%);
+}
+
+.pointer-heading{
+  margin-top: 0;
+  font-family: "Ubuntu";
+  padding-left: 5%;
+  color: #6a097d;
+  margin-bottom: 2px;
+}
+
+.even-heading{
+  text-align: right;
+  padding-right: 5%;
+}
+
+.pointers{
+  padding-bottom: 5%;
+}
+
+
+.pointer{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.3rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: #790c5a;
+
+}
+
+.even-pointer{
+  padding-right: 5%;
+}
+
+.last-pointer{
+  margin-bottom: 0;
+}
+
+.footer{
+  background: #e8ffc1;
+  background: linear-gradient(0deg, #e8ffc1 0%, #a5ecd7 100%);
+  text-align: center;
+}
+
+.end-text{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 8% 7% 5%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  color: #790c5a;
+}
+
+/* .para{
+  display: inline;
+  width: 50%;
+}*/
+
+.img-odd{
+  margin-right: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-even{
+  margin-left: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-para{
+  display: flex;
+}

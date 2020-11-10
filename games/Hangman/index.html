@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hangman</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Poppins:wght@400;700;900&family=Ubuntu&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="info">
+      <h1 class="heading">Hangman</h1>
+      <p class="info-para">Try to guess the hidden word before its too late!
+      You can either guess one letter at a time or the whole word at once but if you get the word wrong, you'll lose 2 guesses whereas you'll lose only one guess if you get the letter wrong</p>
+    </div>
+
+    <input type="text" name="" value="" placeholder="Guess">
+
+    <button type="button" name="button">Play Again</button>
+
+    <div class="word">
+
+    </div>
+
+    <div class="hangman">
+
+    </div>
+
+    <span class="guesses">
+
+      <div class="guesses-left">
+        Guesses Left: <span class="bold">10</span>
+      </div>
+
+      <div class="guessed">
+        Guessed Letters: <span class="bold"></span>
+      </div>
+
+    </span>
+
+    <span class="score">
+
+      <div>
+        Streak: <span class="bold">0</span>
+      </div>
+
+      <div class="guessed">
+        Average Score: <span class="bold">-</span>
+      </div>
+
+    </span>
+
+    <script src="index.js" charset="utf-8"></script>
+  </body>
+</html>

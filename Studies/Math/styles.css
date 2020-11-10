@@ -1,0 +1,201 @@
+body{
+  margin: 0;
+}
+
+.header{
+  background: #bfdcae;
+  background: linear-gradient(0deg, #bfdcae 0%, #b2deec 100%);
+  text-align: center;
+}
+/*
+.nav-link,
+.nav-link:visited{
+  text-decoration: none;
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #0f4c75;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+
+}
+
+.nav-link:hover{
+  color: #070d59;
+}
+
+.nav-item{
+  list-style-type: none;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  text-align: center;
+  float: left;
+} */
+
+.title{
+  margin-top: 0;
+  color: #0f4c75;
+}
+
+body h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4rem;
+  padding-top: 3%;
+}
+
+#title-text{
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 5%;
+  padding-left: 7%;
+  padding-right: 7%;
+  color: #0f4c75;
+  font-family: "Ubuntu";
+}
+
+
+/* First Gradient */
+.main-content{
+  /* height:  */
+  background: #fadcaa;
+  background: linear-gradient(0deg, #fadcaa 0%, #bfdcae 100%);
+
+}
+
+/* Tips for parents */
+
+.main-points{
+  padding-bottom: 5%;
+
+}
+.age-group{
+  margin-top: 0;
+  text-align: center;
+  color: #3b5249;
+}
+
+.intro-text{
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.5rem;
+  color: #62760c;
+
+  font-family: "Ubuntu";
+}
+
+.agewise-img{
+  display: block;
+  max-width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.heading{
+  padding-left: 5%;
+  font-size: 2.5rem;
+  color: #3b5249;
+  font-family: "Ubuntu";
+}
+
+.pointer-heading{
+  padding-left: 5%;
+  margin-bottom: 3px;
+  font-size: 2rem;
+  color: #3b5249;
+  font-family: "Ubuntu";
+}
+
+.pointer{
+  padding-left: 5%;
+  width: 80%;
+  margin-top: 2px;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 1%;
+  color: #62760c;
+  font-family: "Ubuntu";
+}
+
+/*
+Second Gradient */
+
+.main-content_{
+  /* height:  */
+  background: #b2deec;
+  background: linear-gradient(0deg, #b2deec 0%, #fadcaa 100%);
+}
+
+.age-group_{
+  margin-top: 0;
+  text-align: center;
+  color: #132743;
+}
+
+.intro-text_{
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.5rem;
+  color: #0f4c75;
+
+  font-family: "Ubuntu";
+}
+
+
+.heading_{
+  padding-left: 5%;
+  font-size: 2.5rem;
+  color: #132743;
+  font-family: "Ubuntu";
+}
+
+.pointer-heading_{
+  padding-left: 5%;
+  margin-bottom: 3px;
+  font-size: 2rem;
+  color: #132743;
+  font-family: "Ubuntu";
+}
+
+.pointer_{
+  padding-left: 5%;
+  width: 80%;
+  margin-top: 2px;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 1%;
+  color: #0f4c75;
+  font-family: "Ubuntu";
+}
+
+/* third gradient */
+.main-content_1{
+  /* height:  */
+  background: #bfdcae;
+  background: linear-gradient(0deg, #bfdcae 0%, #b2deec 100%);
+}
+
+.agewise-img_{
+  display: block;
+  width: 40%;
+  height: auto;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* fourth gradient */
+.main-content_2{
+  /* height:  */
+  background: #fadcaa;
+  background: linear-gradient(0deg, #fadcaa 0%, #bfdcae 100%);
+}
+
+
+/* .pointers{
+  color: #3b5249;
+} */
