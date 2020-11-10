@@ -1,0 +1,2 @@
+# Kiddopedia
+ Children's Encyclopedia
